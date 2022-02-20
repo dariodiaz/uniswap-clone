@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "uniswap-blockchainapp"
-  },
   "api": {
     "projectId": "masq7ysh",
     "dataset": "production"
+  },
+  "project": {
+    "name": "uniswap-blockchainapp"
   },
   "plugins": [
     "@sanity/base",
